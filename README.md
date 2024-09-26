@@ -1,6 +1,6 @@
 ## About me 🕵️‍♂️
+我是陳一嘉，今年24歲，目前就讀國立中央大學網路學習科技學系碩士學位。
 
-你好
 <!--
 **lexchen68/lexchen68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
