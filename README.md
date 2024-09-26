@@ -1,5 +1,6 @@
-## Hi I'm Lex 👋
+## About me 🕵️‍♂️
 
+你好
 <!--
 **lexchen68/lexchen68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
